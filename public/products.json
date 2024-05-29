@@ -1,0 +1,96 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "quantity": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": [
+          "https://media.istockphoto.com/id/1409132920/photo/a-mans-hand-takes-a-picture-of-a-tropical-beach-using-a-smartphone.jpg?s=2048x2048&w=is&k=20&c=k4JwJDE1xOZqaSxyTzc_OIM54_Ws7bnFgYYXfkfJRLI="
+        ]
+      },
+      {
+        "id": 2,
+        "quantity": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": [
+          "https://media.istockphoto.com/id/1181288726/photo/apple-iphone-x-silver.jpg?s=2048x2048&w=is&k=20&c=I5S4P9mszDJiZSNYCKNU0RYciC3BLrODjxCMZOSEuIM="
+        ]
+      },
+      {
+        "id": 3,
+        "quantity": 1,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "images": [
+          "https://media.istockphoto.com/id/1031592888/photo/ocean-blue-samsung-galaxy-note-9-with-yellow-s-pen-stylus-on-a-notebook-with-copy-space-on.jpg?s=2048x2048&w=is&k=20&c=w1AfgyjEq0IeC99-MJvBFeMhMqxKTAvWYTrE_CFrFG0="
+        ]
+      },
+      {
+        "id": 4,
+        "quantity": 3,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "images": [
+          "https://media.istockphoto.com/id/1335154727/photo/oppo-reno-6.jpg?s=2048x2048&w=is&k=20&c=PNUpj3XAgALCECPp05Y4pyPgpZLcjDfxvYihv1jvaGk="
+        ]
+      },
+      {
+        "id": 5,
+        "quantity": 1,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "images": [
+          "https://cdn.pixabay.com/photo/2017/08/11/14/19/honor-2631271_1280.jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "quantity": 2,
+        "title": "Xiaomi Redmi Note 9",
+        "description": "Xiaomi Redmi Note 9 Android smartphone. Announced Apr 2020. Features 6.53″ display, Helio G85 chipset, 5020 mAh battery, 128 GB storage, 4 GB RAM, Corning Gorilla Glass 5.",
+        "price": 199,
+        "discountPercentage": 15.08,
+        "rating": 4.5,
+        "stock": 50,
+        "brand": "Xiaomi",
+        "category": "smartphones",
+        "images": [
+          
+          "https://cdn.pixabay.com/photo/2020/03/16/11/07/xiaomi-4936657_1280.jpg"
+        ]
+      }
+    ]
+  }
+  
